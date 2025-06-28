@@ -1,4 +1,3 @@
-import React from 'react';
 import { FileText, Search, Brain, BarChart3, Globe, Lock } from 'lucide-react';
 import { motion } from 'framer-motion';
 

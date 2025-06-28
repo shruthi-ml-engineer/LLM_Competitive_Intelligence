@@ -1,4 +1,3 @@
-import React from 'react';
 import { Upload, Cpu, MessageSquare, TrendingUp } from 'lucide-react';
 import { motion } from 'framer-motion';
 
